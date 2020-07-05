@@ -9,9 +9,10 @@ Install the following three python modules before running django project
 * django
 
 pip install django
-OR Resolve dependencies using:
 
+##### OR Resolve dependencies using:
 pip install -r requirements.txt
+
 ## Run the project
 python manage.py runserver
 
